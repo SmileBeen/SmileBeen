@@ -19,4 +19,4 @@
 [임베디드 엔지니어링 로드맵 위의 진행 상황 보기](https://smilebeen.github.io/map/)
 
 ### 링크
-[임베디드 작업실](https://smilebeen.github.io/) · [유튜브](https://www.youtube.com/)
+[임베디드 작업실](https://smilebeen.github.io/) · [유튜브](https://www.youtube.com/channel/UCxlkiu9_aWijoD7BannNM7w) · [이메일](mailto:qodj6909@gmail.com)
